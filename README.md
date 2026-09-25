@@ -1,0 +1,2 @@
+# Adji-Praktikum02ModelBarang
+
